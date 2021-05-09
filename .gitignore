@@ -1,3 +1,7 @@
+# Add files to be ignored
+crypto_data.csv
+crypto_clustering_starter_code.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
